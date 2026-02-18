@@ -18,9 +18,9 @@ A full-stack product management application with a clean frontend and REST API b
 - JavaScript  
 
 **Backend:**  
-- Java (Spring Boot)  
+- .env  
 - REST API  
-- JPA / Hibernate  
+- js 
 
 **Database:**  
 - MySQL
@@ -42,3 +42,4 @@ A full-stack product management application with a clean frontend and REST API b
 ```bash
 git clone https://github.com/satishshimre/product-management-system.git
 cd product-management-system
+
